@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<FileZilla3>
+    <Servers>
+        <Server>
+            <Host>afs3.njit.edu</Host>
+            <Port>22</Port>
+            <Protocol>1</Protocol>
+            <Type>0</Type>
+            <User>UCID</User>
+            <Pass></Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>NJIT AFS</Name>
+            <Comments>Replace UCID with your UCID.&#x0A;Replace password with your UCID Password.</Comments>
+            <LocalDir></LocalDir>
+            <RemoteDir></RemoteDir>
+            <SyncBrowsing>0</SyncBrowsing>NJIT AFS
+        </Server>
+    </Servers>
+</FileZilla3>
